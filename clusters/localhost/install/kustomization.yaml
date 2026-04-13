@@ -13,6 +13,7 @@ resources:
 
 patches:
   - path: patches/ambulance-webapi.service.yaml
+  - path: patches/ambulance-webapi.deployment.yaml
 
 components:
   - ../../../components/version-developers
