@@ -3,4 +3,9 @@ kind: Kustomization
 
 resources:
 - 'https://github.com/RikoAppDev/ambulance-webapi//deployments/kustomize/install'
+- openapi-ui.service.yaml
+- http-route.yaml
+
+patches:
+- path: patches/ambulance-webapi.deployment.yaml
 

@@ -9,7 +9,7 @@ spec:
     - name: base-path
       value: /fd-ambulance-wl/
     - name: api-base
-      value: http://localhost:30081/api
+      value: /fd-api
     - name: ambulance-id
       value: kornot
   displayRules:
