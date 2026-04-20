@@ -4,6 +4,6 @@ metadata:
   name: ambulance-webapi
   namespace: wac-hospital
 spec:
-  image: rikoappdev/ambulance-wl-webapi
+  image: ricoappdev/ambulance-wl-webapi
   interval: 1m0s
 
