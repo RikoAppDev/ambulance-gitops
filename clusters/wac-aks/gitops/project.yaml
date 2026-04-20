@@ -1,0 +1,12 @@
+apiVersion: wac-fiit.github.io/v1alpha1
+kind: Project
+metadata:
+  name: fd-ambulance-wl
+spec:
+  title: "Zoznam čakajúcich fd"
+  description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  authors: "Frederik Duvač"
+  azureLink: "https://wac-hospital.westeurope.cloudapp.azure.com/fd/"
+  frontendRepoUrl: "https://github.com/RikoAppDev/wac"
+  backendRepoUrl: "https://github.com/RikoAppDev/ambulance-webapi"
+  gitopsRepoUrl: "https://github.com/RikoAppDev/ambulance-gitops"

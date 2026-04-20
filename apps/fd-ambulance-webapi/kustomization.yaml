@@ -9,3 +9,8 @@ resources:
 patches:
 - path: patches/ambulance-webapi.deployment.yaml
 
+labels:
+  - pairs:
+      app.kubernetes.io/component: fd-ambulance-webapi
+      wac-fiit.github.io/component: backend
+
