@@ -6,7 +6,7 @@ spec:
   title: "Zoznam čakajúcich fd"
   description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
   authors: "Frederik Duvač"
-  azureLink: "https://wac-hospital.westeurope.cloudapp.azure.com/fd/"
+  azureLink: "https://wac-hospital.westeurope.cloudapp.azure.com/fd-ambulance-wl/"
   frontendRepoUrl: "https://github.com/RikoAppDev/wac"
   backendRepoUrl: "https://github.com/RikoAppDev/ambulance-webapi"
   gitopsRepoUrl: "https://github.com/RikoAppDev/ambulance-gitops"
